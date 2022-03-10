@@ -6,7 +6,8 @@ import ReactDOM from "react-dom";
 //import Demo1 from "./Demo1";
 //import Demo2 from "./Demo2";
 //import Demo3 from "./Demo3";
-import Image from "./Image";
+//import Image from "./Image";
+import Employees from "./Employees";
 
 
 //ReactDOM.render(<App />, document.getElementById("root"));
@@ -14,4 +15,5 @@ import Image from "./Image";
 //ReactDOM.render(<Demo1 />, document.getElementById("root"));
 //ReactDOM.render(<Demo2 />, document.getElementById("root"));
 //ReactDOM.render(<Demo3 />, document.getElementById("root"));
-ReactDOM.render(<Image />, document.getElementById("root"));
+//ReactDOM.render(<Image />, document.getElementById("root"));
+ReactDOM.render(<Employees />, document.getElementById("root"));
